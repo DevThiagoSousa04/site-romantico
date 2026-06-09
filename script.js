@@ -9,7 +9,7 @@ const CONFIG = {
 
 Você mudou a forma como eu vejo o mundo. Com você, o sol parece mais brilhante, o silêncio tem som, e cada dia ganha um novo significado. Não preciso de grandes aventuras — só preciso de você ao meu lado para que qualquer momento se torne inesquecível.
 
-Obrigado(a) por cada sorriso, por cada abraço, por cada momento que compartilhamos. Você é meu lar, minha paz, minha melhor parte.
+Obrigado por cada sorriso, por cada abraço, por cada momento que compartilhamos. Você é meu lar, minha paz, minha melhor parte.
 
 Eu Te amo hoje, amanhã e sempre.`,
   tracks: [
